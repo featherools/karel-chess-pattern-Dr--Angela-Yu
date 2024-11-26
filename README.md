@@ -13,6 +13,8 @@
 # Developer and Lead Instructor.
 
 # Code:
+
+```
 function main() {
     // your code here
     putBeeper();
@@ -59,3 +61,4 @@ function walkHalfRow() {
     move();
     putBeeper();
 }
+```
